@@ -5,11 +5,5 @@
 	"name": "crazymod",
 	"developer": "ninXout",
 	"description": "",
-	"binary": "crazymod",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "crazymod"
 }

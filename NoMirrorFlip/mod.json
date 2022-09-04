@@ -5,11 +5,5 @@
 	"name": "NoMirrorFlip",
 	"developer": "ninXout",
 	"description": "Mirror Portals don't work",
-	"binary": "Uncomplete",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "Uncomplete"
 }

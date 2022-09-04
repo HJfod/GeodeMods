@@ -5,11 +5,5 @@
 	"name": "NoWaveTrail",
 	"developer": "ninXout",
 	"description": "No Wave Trail",
-	"binary": "nowave",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "nowave"
 }

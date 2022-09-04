@@ -1,2 +1,5 @@
 build/
 .vscode/
+mods/
+files/
+make_index.ps1

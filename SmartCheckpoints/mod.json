@@ -5,11 +5,5 @@
 	"name": "SmartCheckpoints",
 	"developer": "ninXout",
 	"description": "",
-	"binary": "SmartCheckpoints",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "SmartCheckpoints"
 }

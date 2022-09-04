@@ -5,11 +5,5 @@
 	"name": "Really Accurate Percentage",
 	"developer": "ninXout",
 	"description": "",
-	"binary": "PauseSettings",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "PauseSettings"
 }

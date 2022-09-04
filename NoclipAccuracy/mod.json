@@ -5,11 +5,5 @@
 	"name": "Noclip Accuracy",
 	"developer": "ninXout",
 	"description": "",
-	"binary": "RunInfo",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "RunInfo"
 }

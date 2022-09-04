@@ -5,11 +5,5 @@
 	"name": "NoPulseRipoff",
 	"developer": "ninXout",
 	"description": "",
-	"binary": "pausesettingmaybe",
-	"dependencies": [
-		{
-			"id": "com.geode.api",
-			"required": true
-		}
-	]
+	"binary": "pausesettingmaybe"
 }
