@@ -1,8 +1,6 @@
-#include <Geode.hpp>
+#include <Geode/Geode.hpp>
 
 USE_GEODE_NAMESPACE();
-
-field<std::string> myString;
 
 static float frames, noclipped_frames = 0;
 bool completed = false;
